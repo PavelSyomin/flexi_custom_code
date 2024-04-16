@@ -13,7 +13,7 @@
         </downloads>
         <maintainer>Pavel Syomin</maintainer>
         <maintainerurl>https://github.com/PavelSyomin</maintainerurl>
-        <targetplatform name="joomla" version="(3.*)|(4.*)"/>
+        <targetplatform name="joomla" version="(3.*)|(4.*)|(5.*)"/>
         <client>site</client>
     </update>
 </updates>
